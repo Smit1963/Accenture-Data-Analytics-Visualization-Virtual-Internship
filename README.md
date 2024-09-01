@@ -90,7 +90,7 @@ In short, the client wanted to see **“An analysis of their content categories 
  ### Data Visualization and Storytelling:
  **Make the PowerPoint presentation as per the given template**
  
- - Powerpoint Presentation : [PPT](https://github.com/minhaj-313/-Accenture-Data-Analytics-Visualization-Virtual-Internship/blob/main/Accenture%20Internship%20PowerPoint%20presentation%20-%20Task%203%20By%20Minhaj.pptx)
+ - Powerpoint Presentation : [PPT](https://github.com/Smit1963/Accenture-Data-Analytics-Visualization-Virtual-Internship/blob/main/Accenture%20Final%20PPT.pptx)
  
  ## Task - 4
  ### Present to the Client:
