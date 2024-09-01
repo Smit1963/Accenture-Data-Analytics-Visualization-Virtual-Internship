@@ -33,7 +33,7 @@ This project was completed as part of the Accenture North America Data Analytics
 - Analyzed content categories to highlight the top 5 categories with the largest aggregate popularity.
 
 ## Preview Image:
-![Dashboard Preview](https://github.com/minhaj-313/-Accenture-Data-Analytics-Visualization-Virtual-Internship/blob/main/Dashboard%20-%20Social%20Buzz.png?raw=true)
+![Dashboard Preview](https://github.com/Smit1963/Accenture-Data-Analytics-Visualization-Virtual-Internship/blob/main/Dashboard-%20Social%20Buzz.jpg)
 
 
 ## --------------------------------------------------------------------------------------------------------
